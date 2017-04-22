@@ -1,5 +1,7 @@
 # git_push_freshman
 
+[![Join the chat at https://gitter.im/git_push_freshman/Lobby](https://badges.gitter.im/git_push_freshman/Lobby.svg)](https://gitter.im/git_push_freshman/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The Git Push Freshman project is an open introductory course to Git and GitHub.
 
 # Getting Started
