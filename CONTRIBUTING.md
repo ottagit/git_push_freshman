@@ -13,6 +13,11 @@ to this project, making it easy for you to get involved.
 This project adheres to a <a href="https://github.com/ottagit/git_push_freshman/blob/master/CODE_OF_CONDUCT.md">code of 
 conduct</a> to be upheld for a perpetual positive environment.
 
+## Open Curriculum
+
+Feel free to <b><a href="https://www.gitbook.com/book/ottagit/git-push-freshman-open-curriculum/details"> remix the
+git push freshman curriculum </a></b>
+
 ## How to submit changes
 
 Identify your area of interest in which you are willing to cintribute to the project, then follow the following steps
