@@ -1,4 +1,6 @@
+# git_push_freshman
 
+The Git Push Freshman project is an open introductory course for learning version control using Git and collaboration on GitHub. It is richly inspired by the Mozilla Open Leadership program.
 
 ## Getting Started
 
