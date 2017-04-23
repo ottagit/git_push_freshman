@@ -1,6 +1,4 @@
-# git_push_freshman
 
-The Git Push Freshman project is an open introductory course to Git and GitHub.
 
 ## Getting Started
 
