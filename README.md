@@ -2,28 +2,34 @@
 
 The Git Push Freshman project is an open introductory course to Git and GitHub.
 
-# Getting Started
+## Getting Started
 
-To contribute to this project, feel free to grab a copy by clicking the fork button. 
-Concerned about something? Raise an issue on the same and help us improve.
+Following your signup on GitHub, you'll need to install Git locally on your
+machine.
+ 1. ``` sudo apt-get install git``` for Debian users
 
-# Code of Conduct
+## Contributing
+
+Thank you for your interest in contributing to the #git_push_freshman project. To get you started, take
+a look at <a href="https://github.com/ottagit/git_push_freshman/blob/master/CONTRIBUTING.md">CONTRIBUTING.md</a>
+
+## Code of Conduct
 
 We appreciate every contributor's effort to help nurture this project. Just be
 mindful to fellow contributors. Here's a guide to <a href="http://contributor-covenant.org/version/1/4/code_of_conduct.md
 ">our morals for working open</a>
 
-# Authors
+## Authors
 <ul>
   <li>Chris Otta</li>
   <li>Mozilla Maseno Team</li>
 </ul>
 
-# License
+## License
 
 This project is licensed under the GNU General Public License. See the <a href= "https://github.com/ottagit/git_push_freshman/blob/master/LICENSE">License</a> file for details.
 
-# Acknowledgements
+## Acknowledgements
 
 <ul>
   <li><a href="https://www.mozilla.org/en-US/foundation/">The Mozilla Foundation</a></li>
