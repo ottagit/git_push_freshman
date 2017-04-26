@@ -14,7 +14,7 @@ machine.
 
 ## Contributing
 
-Thank you for your interest in contributing to the #git_push_freshman project. To get you started, take
+Thank you for your interest in contributing to the <b>#git_push_freshman</b> project. To get you started, take
 a look at <a href="https://github.com/ottagit/git_push_freshman/blob/master/CONTRIBUTING.md">CONTRIBUTING.md</a>
 
 ## Code of Conduct
