@@ -1,9 +1,9 @@
 # Contributing to the Git Push Freshman project
 
-Many thanks for your interest in contributing to the Git Push Freshman pproject!
+Many thanks for your interest in contributing to the Git Push Freshman project!
 
-This is the web presence for Mozilla's Open Leadership Training(OLT) for the
-<a href="https://ottagit.github.io/git_push_freshman/">Git Push Freshman</a> project.
+As described in the <a href="">README.md</a> file, based on an open curriculum, the project involves hands-on training on version control using Git and collaborative software development using GitHub. 
+Through learning by doing, a minimum viable product (MVP) in the form of a sample informational website for the project will be developed in the process, hosted on <a href="https://pages.github.com/">GitHub Pages</a>. This is the web presence for the <a href="https://ottagit.github.io/git_push_freshman/">Git Push Freshman</a> project.
 
 Presented in this document is a set of guidelines to help you out in your contribution
 to this project, making it easy for you to get involved.
@@ -15,13 +15,25 @@ conduct</a> to be upheld for a perpetual positive environment.
 
 ## Open Curriculum
 
-Feel free to <b><a href="https://www.gitbook.com/book/ottagit/git-push-freshman-open-curriculum/details"> remix the
-git push freshman curriculum </a></b>
+The <a href="https://www.gitbook.com/book/ottagit/git-push-freshman-open-curriculum/details">open curriculum</a> will form part of the roadmap of this project and has been made open for editing. Feel free to remix it.
 
-## How to submit changes
+## How to submit changes 
 
-Identify your area of interest in which you are willing to cintribute to the project, then follow the following steps
+Identify your area of interest in which you are willing to contribute to the project, then follow the following steps
 in making your chages to the project repository.
+
+### 1. The Open Curriculum
+
+<ol>
+  <li><a href="https://www.gitbook.com/book/ottagit/git-push-freshman-open-curriculum/details">Open the curriculum</a></li>
+  <li>Click on the <b>Edit</b> button to open the book in edit mode</li> 
+  <li>Make changes to your preffered articles on the left</li>
+  <li>Once satisfied with the changes, create a change  request to submit a proposal to integrate and publish the chages</li>
+</ol>
+
+### 2. This repository
+
+As outlined above, to apply the skills gained from using the open curriculum, a sample informational website for the project will be designed in the course of the project. This section is particularly relevant for the beneficiaries of the training program, that is, the freshmen with whom I closely work. However, anyone is free to follow the steps below in contributing towards the design process.
 
 <ol>
   <li><a href="https://help.github.com/articles/fork-a-repo/">Fork</a> <b>this repository</b> to make your own copy of
@@ -32,7 +44,7 @@ in making your chages to the project repository.
   notifying your project lead on your proposed chages.</li>
 </ol>
 
-For those new to contributing to open source projects, check out this 
+For those completely new to contributing to open source projects, check out this 
 guide <a href="https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/">contributing to open source
 projects on GitHub
 </a>
