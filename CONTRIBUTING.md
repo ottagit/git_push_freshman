@@ -4,7 +4,7 @@ Many thanks for your interest in contributing to the Git Push Freshman project!
 
 We'll spent most of our time developing an evolving open curriculum for this project. This is an e-book edited and published using <a href="https://www.gitbook.com">GitBook</a>. 
 
-As such, efforts of technical reviewers including but not limited to project contributors and maintainers using GitHub, tech bloggers, Open Educational Resources (OER) contributors, are highly welcome in co-authoring of the curriculum.
+As such, efforts of technical reviewers including but not limited to project contributors and maintainers using GitHub, tech bloggers, Open Educational Resources (OER) contributors,  educators, are highly welcome in co-authoring the curriculum.
 
 Presented in this document is a set of guidelines to help you out in your contribution to this project, making it easy for you to get involved.
 
@@ -12,13 +12,16 @@ Presented in this document is a set of guidelines to help you out in your contri
 
 This project adheres to a <a href="https://github.com/ottagit/git_push_freshman/blob/master/CODE_OF_CONDUCT.md">code of conduct</a> to be upheld for a perpetual positive environment.
 
+## GitHub Flavored Markdown
+In the course of your contribution to this project, you are likely to encounter Markdown files with the *.md * extension. The Markdown standard will be used to style text on the web. If you need help with getting started with *.md* files, here's a <a href="https://guides.github.com/features/mastering-markdown/ ">guide to mastering markdown</a>
+
 ## Open Curriculum
 
 The <a href="https://www.gitbook.com/book/ottagit/git-push-freshman-open-curriculum/details">open curriculum</a> is the core of this project and has been made open for editing. Feel free to remix it.
 
 ## How to submit changes 
 
-<b>N.B.</b> The open curriculum has been synchronized with <a href="https://github.com/ottagit/git_push_freshman">this repository</a>. Any changes made to the repository are automatically updated in the destination file in the git book.
+<b>N.B.</b> The open curriculum has been synchronized with <a href="https://github.com/ottagit/git_push_freshman">this repository</a>. Any changes made to the repository are automatically updated in the destination file in the git book; the converse is true, that is, changes made to the Git book reflect in the synced repository.
   
 
 Identify your area of interest in which you are willing to contribute to the project, then follow the following steps
@@ -29,6 +32,7 @@ in making your chages to the project repository.
 <ol>
   <li><a href="https://www.gitbook.com/book/ottagit/git-push-freshman-open-curriculum/details">Open the curriculum</a></li>
   <li>Click on the <b>Edit</b> button to open the book in edit mode</li> 
+  <b>N.B.</b> If this fails, follow the contributor guidelines "This repository" (number 2) below.
   <li>Make changes to your preferred articles on the left</li>
   <li>Once satisfied with the changes, create a change  request to submit a proposal to integrate and publish the chages</li>
 </ol>
