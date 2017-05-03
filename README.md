@@ -2,7 +2,7 @@
 
 # git_push_freshman
 
-The Git Push Freshman project is <b>an open introductory course to version control concepts using Git and collaborative software development using GitHub</b> to Computer Science first year students  in one of Kenya's public campuses. 
+The Git Push Freshman project is <b>an open introductory course to version control concepts using Git and collaborative software development using GitHub</b> to Computer Science first year students Maseno University, Kenya.
 
 Following an open curriculum developed in the course of this project and taking a hands-on approach, the project seeks to <b>equip the students with basic technical skills necessary to enable them contribute to open source software projects</b>. In effect, these students will find it easier to <i>effectively collaborate on school group projects with enhanced social coding experience on GitHub</i>.
 
