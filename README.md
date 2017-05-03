@@ -8,7 +8,7 @@ Following an open curriculum developed in the course of this project and taking 
 
 ### Getting Started
 
-To kick-start your contribution process, the following are the pre-requisites:
+To kick-start your contribution process, it is essential that you:
  1. ``` Create a GitHub account ``` (guess you already have one)
  2. ``` Have Git installed on your local machine ```
  3. ``` Set up a GitBook account ``` at <a href="https://gitbook.com">the official GitBook site.</a>
