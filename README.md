@@ -41,6 +41,7 @@ This project is licensed under the GNU General Public License. See the <a href= 
   <li><a href="https://www.mozilla.org/en-US/foundation/">The Mozilla Foundation</a></li>
   <li><a href="http://lakehub.co.ke">LakeHub</a></li>
   <li><a href="http://maseno.ac.ke">Maseno University</a></li>
+  <li>Scott Chacon's [](https://git-scm.com/book/en/v2 "Pro Git - All you need for Git and GitHub")</li>
 </ul>
 
 ### <b>Disclaimer: This is very much a work-in-progress (WIP) and we'll be pushing content regularly.</b>
