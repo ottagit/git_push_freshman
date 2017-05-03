@@ -17,8 +17,14 @@
   * [Branch Management](git-branching/branch-management.md)
   * [Remote Branches](git-branching/remote-branches.md)
 * [Distributed Git and GitHub](distributed-git-and-github.md)
-  * Account Setup and Configuration
-  * Distributed Workflows
-  * Contributing to a Project
-  * Maintaining a Project
+  * [Account Setup and Configuration](distributed-git-and-github/account-setup-and-configuration.md)
+  * [Distributed Workflows](distributed-git-and-github/distributed-workflows.md)
+    * [Integration-Manager Workflow](distributed-git-and-github/distributed-workflows/integration-manager-workflow.md)
+  * [Contributing to a Project](distributed-git-and-github/contributing-to-a-project.md)
+    * [Forked Public Project](distributed-git-and-github/contributing-to-a-project/forked-public-project.md)
+  * [Maintaining a Project](distributed-git-and-github/maintaining-a-project.md)
+    * [Working in Topic Branches](distributed-git-and-github/maintaining-a-project/working-in-topic-branches.md)
+    * [Checking out Remote Branches](distributed-git-and-github/maintaining-a-project/checking-out-remote-branches.md)
+    * [Determining What Is Introduced](distributed-git-and-github/maintaining-a-project/determining-what-is-introduced.md)
+    * [Integrating Contributions](distributed-git-and-github/maintaining-a-project/integrating-contributions.md)
 
