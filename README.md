@@ -12,7 +12,6 @@ To kick-start your contribution process, it is essential that you:
  1. ``` Create a GitHub account ``` (guess you already have one)
  2. ``` Have Git installed on your local machine ```
  3. ``` Set up a GitBook account ``` at <a href="https://gitbook.com">the official GitBook site.</a>
- 4. ``` Have a basic knowledge of ``` <a href="https://pages.github.com">GitHub Pages</a>
 
 ### Contributing
 

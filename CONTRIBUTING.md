@@ -22,22 +22,22 @@ The <a href="https://www.gitbook.com/book/ottagit/git-push-freshman-open-curricu
 ## How to submit changes 
 
 <b>N.B.</b> The open curriculum has been synchronized with <a href="https://github.com/ottagit/git_push_freshman">this repository</a>. Any changes made to the repository are automatically updated in the destination file in the git book; the converse is true, that is, changes made to the Git book reflect in the synced repository.
-  
 
-Identify your area of interest in which you are willing to contribute to the project, then follow the following steps
-in making your chages to the project repository.
-
-### 1. The Open Curriculum
+To import and sync this repository:
 
 <ol>
-  <li><a href="https://www.gitbook.com/book/ottagit/git-push-freshman-open-curriculum/details">Open the curriculum</a></li>
-  <li>Click on the <b>Edit</b> button to open the book in edit mode</li> 
-  <b>N.B.</b> If this fails, follow the contributor guidelines "This repository" (number 2) below.
-  <li>Make changes to your preferred articles on the left</li>
-  <li>Once satisfied with the changes, create a change  request to submit a proposal to integrate and publish the chages</li>
+  <li>Visit the <b>Installed integrations</b> section of your GitHub account <b>Settings</b> page</li>
+  <li>Click on <b>Browse Directory</b> the select <b>GitBook</b> from the list of available options</li>
+  <li>Add the integration to GitHub</li>
+  <li>Grant read/write permission (should be the default)</li>
+  <li>Configure repository access to <b>Only select repositories</b> then choose this repository</li>
+  <li>Save the configuration settings and you're good to go </li> 
 </ol>
 
-### 2. This repository
+Identify your area of interest in which you are willing to contribute to the project, then follow the following steps
+in making your changes to the project repository.
+
+### 1. This repository
 
 As outlined above, to apply the skills gained from using the open curriculum, a sample informational website for the project will be designed in the course of the project. This section is particularly relevant for the beneficiaries of the training program, that is, the freshmen with whom I closely work. However, anyone is free to follow the steps below in contributing towards the design process.
 
@@ -45,10 +45,23 @@ As outlined above, to apply the skills gained from using the open curriculum, a 
   <li><a href="https://help.github.com/articles/fork-a-repo/">Fork</a> <b>this repository</b> to make your own copy of
   this project wich you can use and edit.</li>
   <li><a href="https://guides.github.com/activities/forking/#making-changes">Make your changes</a> either on the 
-  GitHub interface or your local machine.</li>
+  GitHub interface, or your local machine by cloning the repository; this gives you a local copy of the repository.</li>
   <li>Submit a <a href="https://help.github.com/articles/about-pull-requests/">pull request</a> around your project
-  notifying your project lead on your proposed chages.</li>
+  notifying your project lead on your proposed changes.</li>
 </ol>
+
+### 2. The Open Curriculum
+
+<ol>
+  <li>Open your <a href="http://gitbook.com">GitBook</a> account </li>
+  <li>Create a new book by importing and syncing an existing repository,  (in this case the forked repository above)</li> 
+  <li>Click on the <b>Edit</b> button and make changes to your preferred articles on the <b>TOC</b> in the sidepane</li>
+  <ul><li><i>Use <b>change requests</b> when experimenting with ideas</i></li></ul>
+  <li>Once the change request is ready, you can accept and <b>merge</b> it from the online view. Once merged, the changes will make it to the <b>primary version</b> and will be published. Good job!</li>
+  <ul><li>If you are not happy with the changes, you can also close the change request without merging it. The change request can be reopened anytime without any loss.</li></ul>
+  <li>With changes reflected on the forked repository, remember to create a pull request (same as <b>step 3 above</b>)</li>
+</ol>
+
 
 For those completely new to contributing to open source projects, check out this 
 guide <a href="https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/">contributing to open source
