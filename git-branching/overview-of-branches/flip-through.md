@@ -2,10 +2,8 @@ Your Git repository now has five objects; _one blob_ for the content of each of 
 
 ![](/assets/img4.png)
 
-
-
-```
-                              _**A conceptual view of a single repository data**_
+```markdown
+                  _**A conceptual view of a single repository data**_
 ```
 
 
