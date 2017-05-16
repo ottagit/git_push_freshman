@@ -4,9 +4,9 @@ Your Git repository now has five objects; _one blob_ for the content of each of 
 
 
 
-           ![](/assets/img3.png)                 
+![](/assets/img4.png)
 
 
 
-                                               _**A conceptual view of a single commit repository data**_
+                                        _**A conceptual view of a single repository data**_
 
