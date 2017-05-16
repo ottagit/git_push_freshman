@@ -14,6 +14,7 @@
   * [Working with Remotes](git-basics/working-with-remotes.md)
 * [Git Branching](git-branching.md)
   * [Overview of Branches](git-branching/overview-of-branches.md)
+    * [Flip through...](git-branching/overview-of-branches/flip-through.md)
   * [Branch Management](git-branching/branch-management.md)
   * [Remote Branches](git-branching/remote-branches.md)
 * [Distributed Git and GitHub](distributed-git-and-github.md)
