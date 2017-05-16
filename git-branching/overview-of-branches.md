@@ -17,36 +17,20 @@ When you make a commit, Git stores a commit object that contains:
 1. A pointer to the snapshot of the content staged, the author and object metadata \(data of data\)
 2. Zero or more pointers to the commit\(s\) that were the direct parents of this commit; zero parents for the first commit, one parent for a normal commit, and multiple parents for a commit that resulted from a merge of multiple branches.
 
-
-
 Picture this. You have three files all of which you stage and commit. Staging the files:
 
-1.  _checksums _\(stores a hexadecimal representation\) each one, 
+1. _checksums _\(stores a hexadecimal representation\) each one, 
 2. stores that version \(known as _blob_\) of the file in the Git repository, and 
 3. adds that checksum to the staging area:
-
-
 
 `git add README test.rb LICENSE`
 
 `git commit -m 'initial commit of my project'`
 
-
-
 Running `git commit` :
 
-1. checksums all project directories and stores them as as _tree _objects in the _Git repository,_
-2. creates a _commit _object that has the metadata to the root project _tree _object \(mentioned above\) so it can recreate that snapshot when needed, e.g., during a `git revert`
-
-Your Git repository now contains five objects: _one blob _for the contents of each of your three files, _one tree _that lists the contents of the directory and specifies which file names are stored as which blobs, and _one commit_ with the pointer to that root tree and all the commit metadata.
+1. checksums all project directories and stores them as as _tree \_objects in the \_Git repository,_
+2. creates a \_commit \_object that has the metadata to the root project \_tree \_object \(mentioned above\) so it can recreate that snapshot when needed, e.g., during a `git revert`
 
 
-
-                                              ![](/assets/import2.png)           
-
-                                                                      _**A conceptual view of a single repository commit data**_                                                                
-
-
-
-Your Git repository now has five objects; one blob for the content of each of your three files, one tree file that lists the contents of the directory and specifies which file names are specified as which directories, and one commit with the pointer to that root tree and al
 
