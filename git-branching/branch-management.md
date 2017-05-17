@@ -6,5 +6,9 @@ Here we'll look at some of the tools Git provides to enable you and me simply ye
 
 To introduce you to these concepts is a free image for you. See below.....
 
+
+
+
+
 ![](/assets/git-branch-management.jpg)
 
