@@ -17,6 +17,8 @@
     * [Commit objects](git-branching/overview-of-branches/flip-through.md)
     * [Commit objects 2](git-branching/overview-of-branches/flip1.md)
   * [Branch Management](git-branching/branch-management.md)
+    * [Creating a new branch](git-branching/branch-management/creating-a-new-branch.md)
+    * Switching to a different branch
   * [Remote Branches](git-branching/remote-branches.md)
 * [Distributed Git and GitHub](distributed-git-and-github.md)
   * [Account Setup and Configuration](distributed-git-and-github/account-setup-and-configuration.md)
