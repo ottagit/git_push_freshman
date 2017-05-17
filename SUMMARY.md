@@ -19,6 +19,7 @@
   * [Branch Management](git-branching/branch-management.md)
     * [Creating a new branch](git-branching/branch-management/creating-a-new-branch.md)
     * Switching to a different branch
+    * [Your current branch](git-branching/branch-management/your-current-branch.md)
   * [Remote Branches](git-branching/remote-branches.md)
 * [Distributed Git and GitHub](distributed-git-and-github.md)
   * [Account Setup and Configuration](distributed-git-and-github/account-setup-and-configuration.md)
