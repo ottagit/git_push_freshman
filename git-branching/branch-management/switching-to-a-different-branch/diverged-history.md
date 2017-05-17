@@ -6,15 +6,13 @@ When you make a few more changes and commit
 
 your project history diverges as shown in the diagram below
 
-
-
 ![](/assets/import11.png)
 
-                                                                                          _**Diverged branch histories**_
+```
+                              _**Diverged branch histories**_
+```
 
 ---
-
-
 
 **Your workflow:**
 
