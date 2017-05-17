@@ -12,19 +12,13 @@ The following command switches us from our current _master \_branch into our new
 
 This moves the HEAD to point to the testing branch:
 
-
-
 ---
 
+![](/assets/swicth.png)
 
+           
 
-       ![](/assets/swicth.png)
-
-
-
-_**           HEAD points to another branch when you switch branches**_
-
-
+_**HEAD points to another branch when you switch branches**_
 
 ---
 
