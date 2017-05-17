@@ -18,9 +18,9 @@
     * [Commit objects 2](git-branching/overview-of-branches/flip1.md)
   * [Branch Management](git-branching/branch-management.md)
     * [Creating a new branch](git-branching/branch-management/creating-a-new-branch.md)
-    * Switching to a different branch
     * [Your current branch](git-branching/branch-management/your-current-branch.md)
-  * [Remote Branches](git-branching/remote-branches.md)
+    * [Switching branches](git-branching/branch-management/switching-to-a-different-branch.md)
+  * Remote branches
 * [Distributed Git and GitHub](distributed-git-and-github.md)
   * [Account Setup and Configuration](distributed-git-and-github/account-setup-and-configuration.md)
   * [Distributed Workflows](distributed-git-and-github/distributed-workflows.md)
@@ -32,4 +32,5 @@
     * [Checking out Remote Branches](distributed-git-and-github/maintaining-a-project/checking-out-remote-branches.md)
     * [Determining What Is Introduced](distributed-git-and-github/maintaining-a-project/determining-what-is-introduced.md)
     * [Integrating Contributions](distributed-git-and-github/maintaining-a-project/integrating-contributions.md)
+* [Remote Branches](git-branching/remote-branches.md)
 
