@@ -21,6 +21,7 @@
     * [Your current branch](git-branching/branch-management/your-current-branch.md)
     * [Switching branches](git-branching/branch-management/switching-to-a-different-branch.md)
       * [Movable HEAD ](git-branching/branch-management/switching-to-a-different-branch/movable-head.md)
+      * [Switch back](git-branching/branch-management/switching-to-a-different-branch/switch-back.md)
   * Remote branches
 * [Distributed Git and GitHub](distributed-git-and-github.md)
   * [Account Setup and Configuration](distributed-git-and-github/account-setup-and-configuration.md)
