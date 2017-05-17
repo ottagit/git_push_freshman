@@ -23,7 +23,7 @@ Therefore, creating a new branch called \_testing \_creates a new pointer at the
 ![](/assets/imp8.png)
 
 ```
-                           _**Multiple branches pointing into the commit's data history**_
+                  _**Multiple branches pointing into the commit's data history**_
 ```
 
 
