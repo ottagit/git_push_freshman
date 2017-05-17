@@ -2,13 +2,11 @@ If you go ahead and make further changes then commit, the next commit stores a p
 
 
 
-
-
-                              ![](/assets/imp6.png)           
+![](/assets/imp6.png)
 
 
 
-                                                     _**Git object data for multiple commits**_
+                     _**Git object data for multiple commits**_
 
 
 
