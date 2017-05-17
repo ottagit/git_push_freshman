@@ -6,15 +6,11 @@ Git knows the local branch you're currently on by keeping a special pointer call
 
 
 
-          ![](/assets/head.png)
-
-     
+![](/assets/head.png)
 
 
 
-                                                         _**HEAD file pointing to the branch you're on**_
-
- 
+           _**HEAD file pointing to the branch you're on**_
 
 
 
