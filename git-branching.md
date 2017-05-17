@@ -2,17 +2,9 @@ Referred to as Git's killer feature, branches are at the core of the Git workflo
 
 
 
-
-
-                                                            
-
+![](/assets/Git_new_ideas.png)
 
 
 
 
-                                                                                
-
-
-
-                                                       ![](/assets/2235068837_16cd539246.jpg)
 
