@@ -12,9 +12,13 @@ Therefore, creating a new branch called \_testing \_creates a new pointer at the
 
 `git branch testing`
 
-![](/assets/imp7.png)       _**Branch pointing into the commit's data history**_
+![](/assets/imp7.png)       
+
+                                 _**Branch pointing into the commit's data history**_
 
 ---
 
-![](/assets/imp8.png)  _**Multiple branches pointing into the commit's data history**_
+![](/assets/imp8.png)  
+
+                                     _**Multiple branches pointing into the commit's data history**_
 
