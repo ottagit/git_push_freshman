@@ -19,4 +19,11 @@ But what are the available VCSs. Well, VCSs come in three flavours:
 The Distributed VCSs stand out as the most effeciently effective VCSs to use today. The upside here is that all collaborators get to keep full copies of the work. Some examples of Distributed VCSs include [Git](https://git-scm.com/), [Mercurial](https://www.mercurial-scm.org/), [Monotone](http://www.monotone.ca/), and [Veracity](http://veracity-scm.com/), amongst others.
 
 # Git
-Git stands out as a popular open source Distributed VCS.
+Git stands out as a popular open source Distributed VCS. As a Distributed VCS, git enables user to mirror the original content into multiple locations. The advantage of this is that when one source of the content dies, or is unavailable, users have multiple sources from which the content may be accessed. As an Open Source DVCS, git affords users all the inherent advantages associated with open source software inclusive of freedom of use, security, great and fast support and interoperability, amongst others.
+
+So, in essence, with Git, one if afforded the advantages of:
+* Collaboration
+* Backup
+* History
+* Orderliness
+* Easy revision
