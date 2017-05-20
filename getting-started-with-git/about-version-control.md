@@ -4,9 +4,15 @@ Ever worked on a project which required multiple file edits? Then, at the end of
 
 Version control is a practice in which different versions of a tool are managed and organised in a categorical manner for easy access and future reference. With version control systems (VCSs), a user is able to track changes to particular files, revert to previous versions and undo changes. VCSs offer the additional advantage of enhancing collaborative efforts. That is to mean, with a VCS, a group of users can work on the same files, making different edits but still achieving the same goal.
 
+<<<<<<< HEAD
 Let's imagine a scenario without a VCS. I would write a file and save it, copy it to a flash drive and give it to a colleague. The colleague would analyse the whole file, make changes, save to two flash drive then give one to me and give the other to another colleague. The second colleague would also review the file, make changes and then submit the same file in two separate flash drives to me and the first colleague. I would then have to look through the different changes made by my colleagues in order to integrate them in my copy. And so on,
 
 Such a long process.
+=======
+Ever worked on a project which required multiple file edits? Then, at the end of the day, you have to record your progress. At the end of the month, you wish you had a backup of a section of the file as it was in its original form. In the long run, this eventually turns out to be hectic. Luckily, tech is aware of such problems and in comes version control
+
+Version control is about organising different versions of a tool in an easily 
+>>>>>>> 3e945bdda5ecda536d3dd41f70f9f98444f75962
 
 Long story short, just use a VCS.
 
