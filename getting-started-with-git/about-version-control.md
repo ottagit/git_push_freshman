@@ -21,7 +21,7 @@ The Distributed VCSs stand out as the most effeciently effective VCSs to use tod
 # Git
 Git stands out as a popular open source Distributed VCS. As a Distributed VCS, git enables user to mirror the original content into multiple locations. The advantage of this is that when one source of the content dies, or is unavailable, users have multiple sources from which the content may be accessed. As an Open Source DVCS, git affords users all the inherent advantages associated with open source software inclusive of freedom of use, security, great and fast support and interoperability, amongst others.
 
-So, in essence, with Git, one if afforded the advantages of:
+So, in essence, with Git, one is afforded the advantages of:
 * Collaboration
 * Backup
 * History
