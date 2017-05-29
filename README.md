@@ -26,8 +26,8 @@ mindful to fellow contributors. Here's a guide to <a href="http://contributor-co
 
 ### Authors
 <ul>
-  <li>[Chris Otta](https://github.com/ottagit)</li>
-  <li>[giantas](https://github.com/giantas)</li>
+  <li><a href="https://github.com/ottagit">Chris Otta</a></li>
+  <li><a href="https://github.com/giantas">giantas</a></li>
   <li>Mozilla Maseno Team</li>
 </ul>
 
