@@ -6,7 +6,7 @@ The command line, basically, is where it all began. It is the life of a system, 
 
 In UNIX-like systems (Linux, OSX, etc), it is referred to as the **Terminal** while in Windows it is the **Command line** (or cmd). In other tongues it is the command-line user interface (**CLI**). Having been the most essential part of the computing history it follows that the CLI is as functional as the GUI. However, on the most part, the CLI provides much more functionality than the GUI, even though it may seem otherwise.
 
-Git has been in existence for a couple of years, and with that it has achieved success in wowing a large number of people. Git starts out as fully-functional in the CLI but, with its popularity, it has been afforded the advantages of having certain GUI applications developed for it and being included in recent Integrated Development Environments (IDEs).
+Git has been in existence for a couple of years, and with that it has achieved success in wowing a large number of people. Git starts out as fully-functional in the CLI but, with its popularity, it has been afforded the advantages of having certain GUI applications developed for it and being included in recent Integrated Development Environments (IDEs) such as Netbeans and Android Studio.
 
 ## CLI Basics
 It is critical for any developer to understand the basics of the CLI. In this chapter just a few commands will be mentioned (perhaps not the full functionality).
@@ -60,4 +60,4 @@ These commands will only function in a **Windows** OS environment. Use them if y
 
 ---
 
-Never though you'd be a geek? Well, then you are one now.
+Never thought you'd be a geek? Well, then you are one now.
