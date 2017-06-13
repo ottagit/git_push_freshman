@@ -2,9 +2,9 @@ Consider the following scenario. You are working on your project \(a web app\) a
 
 
 
-                                             ![](/assets/bm.png)
+![](/assets/bm.png)
 
-                                                 **A short simple history**
+ **A short, simple history**
 
 
 
@@ -16,13 +16,11 @@ You decide to work on a given issue - \_issue53, \_in whatever issue tracking sy
 
 The figure below better illustrates the result:
 
-    
-
-                                        ![](/assets/bm2.png)
 
 
+![](/assets/bm2.png)
 
-                                            **Creating a new branch pointer**
+**Creating a new branch pointer**
 
 
 
