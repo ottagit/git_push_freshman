@@ -24,6 +24,8 @@
       * [Switch back](git-branching/branch-management/switching-to-a-different-branch/switch-back.md)
       * [Diverged history](git-branching/branch-management/switching-to-a-different-branch/diverged-history.md)
   * [Simple Branching](git-branching/simple-branching.md)
+    * [Module 1](git-branching/simple-branching/module-1.md)
+    * [Module 2](git-branching/simple-branching/module-2.md)
   * [Simple Merging](git-branching/simple-merging.md)
   * [Branching Workflows](git-branching/branching-workflows.md)
     * Topic branches
