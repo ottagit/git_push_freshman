@@ -23,17 +23,24 @@
       * [Movable HEAD ](git-branching/branch-management/switching-to-a-different-branch/movable-head.md)
       * [Switch back](git-branching/branch-management/switching-to-a-different-branch/switch-back.md)
       * [Diverged history](git-branching/branch-management/switching-to-a-different-branch/diverged-history.md)
+  * [Simple Branching](git-branching/simple-branching.md)
+  * Simple Merging
+  * [Branching Workflows](git-branching/branching-workflows.md)
+    * Topic branches
   * Remote branches
+    * Pushing
+    * Tracking branches
+    * Deleting remotes
 * [Distributed Git and GitHub](distributed-git-and-github.md)
   * [Account Setup and Configuration](distributed-git-and-github/account-setup-and-configuration.md)
   * [Distributed Workflows](distributed-git-and-github/distributed-workflows.md)
     * [Integration-Manager Workflow](distributed-git-and-github/distributed-workflows/integration-manager-workflow.md)
   * [Contributing to a Project](distributed-git-and-github/contributing-to-a-project.md)
     * [Forked Public Project](distributed-git-and-github/contributing-to-a-project/forked-public-project.md)
+    * The GitHub Workflow
   * [Maintaining a Project](distributed-git-and-github/maintaining-a-project.md)
     * [Working in Topic Branches](distributed-git-and-github/maintaining-a-project/working-in-topic-branches.md)
     * [Checking out Remote Branches](distributed-git-and-github/maintaining-a-project/checking-out-remote-branches.md)
     * [Determining What Is Introduced](distributed-git-and-github/maintaining-a-project/determining-what-is-introduced.md)
     * [Integrating Contributions](distributed-git-and-github/maintaining-a-project/integrating-contributions.md)
-* [Remote Branches](git-branching/remote-branches.md)
 
