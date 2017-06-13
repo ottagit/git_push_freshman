@@ -1,10 +1,8 @@
 Consider the following scenario. You are working on your project \(a web app\) and already have a few commits as shown in the figure below:
 
-
-
 ![](/assets/bm.png)
 
- **A short, simple history**
+**A short, simple history**
 
 
 
@@ -14,9 +12,9 @@ You decide to work on a given issue - \_issue53, \_in whatever issue tracking sy
 
 `git checkout -b issue53                     // Creates and switches you to a new branch, issue53`
 
+
+
 The figure below better illustrates the result:
-
-
 
 ![](/assets/bm2.png)
 
