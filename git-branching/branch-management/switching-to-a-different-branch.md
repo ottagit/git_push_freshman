@@ -16,7 +16,7 @@ This moves the HEAD to point to the testing branch:
 
 ![](/assets/swicth.png)
 
-           
+
 
 _**HEAD points to another branch when you switch branches**_
 

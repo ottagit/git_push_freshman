@@ -19,8 +19,8 @@ When you make a commit, Git stores a commit object that contains:
 
 Picture this. You have three files all of which you stage and commit. Staging the files:
 
-1. _checksums _\(stores a hexadecimal representation\) each one, 
-2. stores that version \(known as _blob_\) of the file in the Git repository, and 
+1. _checksums _\(stores a hexadecimal representation\) each one,
+2. stores that version \(known as _blob_\) of the file in the Git repository, and
 3. adds that checksum to the staging area:
 
 `git add README test.rb LICENSE`

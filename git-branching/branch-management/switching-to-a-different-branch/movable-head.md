@@ -16,5 +16,5 @@ in which the branch that HEAD points to moves forward with the commit as shown i
            _**See, HEAD is smart enough not to lag behind**_
 ```
 
-**NOTE: **The testing branch has moved forward but the master branch still points to the commit you were on when you ran _git checkout_ to switch branches. 
+**NOTE: **The testing branch has moved forward but the master branch still points to the commit you were on when you ran _git checkout_ to switch branches.
 
