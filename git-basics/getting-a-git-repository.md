@@ -10,6 +10,13 @@ To initialise a local repository, just change (`cd`) into the directory which yo
 
 **NB**: You only need to initialise a repository **once.**
 
+## Remote repository
+A **remote** repository is hosted online. The most popular remote git repository host include Github, Bitbucket and Gitlab. Before initialising a repository, one has to create an account on one of these hosts afterwhich you just create a repository.
+
+If you do not have a local copy of the repository, you might want to initialise the remote repository with a README and a LICENSE.
+
+<hr />
+
 Henceforth, the basic procedure is:
 
 `git add <filename(s)>`
